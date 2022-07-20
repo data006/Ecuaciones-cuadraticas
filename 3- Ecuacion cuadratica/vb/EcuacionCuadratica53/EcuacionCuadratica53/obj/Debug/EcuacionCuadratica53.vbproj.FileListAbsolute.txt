@@ -1,0 +1,11 @@
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\3\vb\EcuacionCuadratica53\EcuacionCuadratica53\bin\Debug\EcuacionCuadratica53.exe.config
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\3\vb\EcuacionCuadratica53\EcuacionCuadratica53\bin\Debug\EcuacionCuadratica53.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\3\vb\EcuacionCuadratica53\EcuacionCuadratica53\bin\Debug\EcuacionCuadratica53.pdb
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\3\vb\EcuacionCuadratica53\EcuacionCuadratica53\bin\Debug\EcuacionCuadratica53.xml
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\3\vb\EcuacionCuadratica53\EcuacionCuadratica53\obj\Debug\EcuacionCuadratica53.vbprojAssemblyReference.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\3\vb\EcuacionCuadratica53\EcuacionCuadratica53\obj\Debug\EcuacionCuadratica53.Resources.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\3\vb\EcuacionCuadratica53\EcuacionCuadratica53\obj\Debug\EcuacionCuadratica53.vbproj.GenerateResource.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\3\vb\EcuacionCuadratica53\EcuacionCuadratica53\obj\Debug\EcuacionCuadratica53.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\3\vb\EcuacionCuadratica53\EcuacionCuadratica53\obj\Debug\EcuacionCuadratica53.xml
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\3\vb\EcuacionCuadratica53\EcuacionCuadratica53\obj\Debug\EcuacionCuadratica53.pdb
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\3\vb\EcuacionCuadratica53\EcuacionCuadratica53\obj\Debug\EcuacionCuadratica53.frmEcuacionCuadratica.resources
